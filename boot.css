@@ -1,0 +1,254 @@
+header{
+    height: 80px;
+}
+#body{
+    background-color: lightgray;
+}
+#brand{
+    color:rgb(92, 25, 92) ;
+    margin-left:7%;
+    margin-top: 1px;
+    font-style:italic;
+    font-weight: 800;
+    float:left;
+    font-size: 41px;
+}
+#content{
+    color:black;
+    margin-left:4%;
+    margin-top:20px;
+    font-style:normal;
+    float:left;
+}
+#span{
+    color:rgb(221, 25, 25) ;
+    margin-left:3%;
+    margin-top: 20px;
+    float: left;
+}
+#scrapbook{
+    float: left;
+    margin-left:28%;
+    margin-top: 0%;
+    margin-bottom: 2px;
+}
+#search{
+    float: left;
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: 2px;
+}
+#cart{
+    float: left;
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: 2px;
+}
+#profile{
+    float: left;
+    margin-left: 2%;
+    margin-top: 0%;
+}
+#contain{
+    height: 50px;
+}
+#first{
+    height: 100px;
+}
+#second{
+    height: 100px;
+}
+#third{
+    height: 100px;
+}
+#fourth{
+    height: 100px;
+
+}
+#fifth{
+    height: 100px;
+    
+}
+#slider{
+    height: 30px;
+}
+#devcarousel{
+    margin-left: 11%;
+}
+#slideImg{
+    height: 300px;
+    width: 600px;
+}
+#categories{
+    
+    margin-top: 50px;
+}
+#category1{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+}
+#photo1{
+    height: 430px;
+    width: 225px;
+    margin-top: 3%;
+    float: left;
+}
+#photo2{
+    height: 215px;
+    width: 112px;
+    margin-top: 4%;
+    float: left;
+}
+#photo3{
+    height: 215px;
+    width: 112px;
+    margin-top: 4%;
+    float: left;
+}
+#category2{
+    border: solid rgb(168, 18, 30) 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+    margin-left: 3.5%;
+}
+#photo4{
+    
+    height: 430px;
+    width: 225px;
+    margin-top: 17%;
+    float: left;
+}
+#photo5{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: -117%;
+    float: left;
+}
+#photo6{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: -48%;
+    float: left;
+}
+#category3{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+    margin-left: 3.5%;
+}
+#photo7{
+    
+    height: 350px;
+    width: 225px;
+    margin-top: -4%;
+    float: left;
+}
+#photo8{
+   
+    height: 212px;
+    width: 112px;
+    margin-top: 10%;
+    float: left;
+}
+#photo9{
+   
+    height: 212px;
+    width: 112px;
+    margin-top: -10%;
+    float: left;
+}
+
+
+#category4{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 12%;
+    float: left;
+    margin-left: -1.5%;
+}
+#photo10{
+    
+    height: 350px;
+    width: 225px;
+    margin-top: 9%;
+    float: left;
+}
+#photo11{
+   
+    height: 212px;
+    width: 112px;
+    margin-top: 10%;
+    float: left;
+}
+#photo12{
+   
+    height: 212px;
+    width: 112px;
+    margin-top: -10%;
+    float: left;
+}
+#category5{
+    border: solid rgb(168, 18, 30) 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 14%;
+    float: left;
+    margin-left: -217%;
+}
+#photo13{
+    
+    height: 430px;
+    width: 225px;
+    margin-top: 17%;
+    float: left;
+}
+#photo14{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: 12%;
+    float: left;
+}
+#photo15{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: -1%;
+    float: left;
+}
+#category6{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 14%;
+    float: left;
+    margin-left: -333%;
+}
+#photo16{
+    height: 430px;
+    width: 225px;
+    margin-top: 3%;
+    float: left;
+}
+#photo17{
+    height: 215px;
+    width: 112px;
+    margin-top: 4%;
+    float: left;
+}
+#photo18{
+    height: 215px;
+    width: 112px;
+    margin-top: 4%;
+    float: left;
+}
